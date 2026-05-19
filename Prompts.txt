@@ -1,0 +1,10 @@
+Prompts:
+
+analyse this information and suggest 6 key visualizations or metrics that would be more effective for a sales performance dashboard. Explain why each one is valuable
+
+
+present it as an HTML/CSS artifact that shows how the dashboard should look. Also , use chart.js to create the charts , and make sure to include javascript whenever neccessary to process the csv file and build the visualizations
+
+To puplish :
+
+use this web : https://www.netlify.com/
