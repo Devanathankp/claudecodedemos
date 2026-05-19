@@ -11,7 +11,7 @@ An interactive sales analytics dashboard built with HTML, CSS, and Chart.js.
 - Region × Product profit margin heatmap
 
 ## Live Demo
-[View Dashboard](https://yourusername.github.io/sales-dashboard/sales-dashboard.html)
+[View Dashboard](https://devanathankp.github.io/claudecodedemos/)
 
 ## Built With
 - HTML/CSS
